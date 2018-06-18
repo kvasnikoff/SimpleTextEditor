@@ -8,3 +8,11 @@
 Поддерживаются вставка, копирование, выразение через CMD-V, CMD-C, CMD-X (проверено на OS 10.13)
 
 ![Alt Text](https://media.giphy.com/media/NRweoJx9Cchmooau6x/giphy.gif)
+
+Текст является динамическим и подстраивается под размеры окна.
+
+![Alt Text](https://media.giphy.com/media/U6U4Ins7v6FuTuZbp1/giphy.gif)
+
+В окне работает скроллинг для удобной работы с текстом
+
+![Alt Text](https://media.giphy.com/media/8myYzFaxz6TdropFAz/giphy.gif)
