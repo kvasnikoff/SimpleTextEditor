@@ -3,4 +3,4 @@
 
 При при запуске пригораммы можно попробовать набрать в ней текст.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1o1i8G732rQEYmIbmj/giphy.gif)
