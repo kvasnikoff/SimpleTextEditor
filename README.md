@@ -27,3 +27,12 @@
 
 Для сохранения файла можно использовать любо меню (Файл-Сохранить), либо встроенный шорткат ⌘S
 
+![Alt Text](https://media.giphy.com/media/1BhG34KIyQPoncg1sf/giphy.gif)
+
+Для создания нового файла можно использовать любо меню (Файл-Новый), либо встроенный шорткат ⌘N
+
+![Alt Text](https://media.giphy.com/media/1BhG34KIyQPoncg1sf/giphy.gif)
+
+Саществует также окно «О программе». Вызывается либо через меню (Справка-О программе), либо через шорткат ⌘A
+
+![Alt Text](https://media.giphy.com/media/1BhG34KIyQPoncg1sf/giphy.gif)
