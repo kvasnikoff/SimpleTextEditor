@@ -16,3 +16,14 @@
 В окне работает скроллинг для удобной работы с текстом
 
 ![Alt Text](https://media.giphy.com/media/8myYzFaxz6TdropFAz/giphy.gif)
+
+При работе с текстом доступно изменение шрифтов. Изначально в программу добавлены два: Helvetica и Georgia
+
+![Alt Text](https://media.giphy.com/media/toA1X0l5nhV6O1nkO0/giphy.gif)
+
+Для открытия файла можно использовать любо меню (Файл-Открыть), либо встроенный шорткат CMD-O
+
+![Alt Text](https://media.giphy.com/media/1BhG34KIyQPoncg1sf/giphy.gif)
+
+Для сохранения файла можно использовать любо меню (Файл-Сохранить), либо встроенный шорткат CMD-S
+
