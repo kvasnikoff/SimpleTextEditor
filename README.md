@@ -33,6 +33,4 @@
 
 ![Alt Text](https://media.giphy.com/media/iYtvUYwWEJJfXZQ5YN/giphy.gif)
 
-Саществует также окно «О программе». Вызывается либо через меню (Справка-О программе), либо через шорткат ⌘A
-
-![Alt Text](https://media.giphy.com/media/8St0HVZQ1NKGxHz053/giphy.gif)
+Существует также окно «О программе». Вызывается либо через меню (Справка-О программе), либо через шорткат ⌘A
