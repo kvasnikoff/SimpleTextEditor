@@ -48,7 +48,7 @@ class TextEditor:
     def show_about(event=None):
         messagebox.showwarning(
             "О программе",
-            "Текстовый редактор. 2018. Сделано студентом КМБО-02-17 Квасниковым Петром"
+            "Текстовый редактор. 2018. kvasnikoff.com"
         )
 
     def __init__(self, root): #root -- главное окно
